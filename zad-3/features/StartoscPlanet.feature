@@ -12,22 +12,22 @@ Feature: StaroscPlanetValidator
 		Given there is a staroscPlanetKlasa
 		Then seconds from 1 year on earth are converted to years on Wenus
 
-	Scenario: Earth Year to Merkury
+	Scenario: Earth Year to Wenus
 		Given there is a staroscPlanetKlasa
 		Then seconds from 1 year on earth are converted to years on Merkury
 
-	Scenario: Earth Year to Jowisz
+	Scenario: Earth Year to Wenus
 		Given there is a staroscPlanetKlasa
 		Then seconds from 1 year on earth are converted to years on Jowisz
 
-	Scenario: Earth Year to Jowisz
+	Scenario: Earth Year to Wenus
 		Given there is a staroscPlanetKlasa
-		Then seconds from 1 year on earth are converted to years on Jowisz
+		Then seconds from 1 year on earth are converted to years on Neptun
 
-	Scenario: Earth Year to Saturn
+	Scenario: Earth Year to Wenus
 		Given there is a staroscPlanetKlasa
 		Then seconds from 1 year on earth are converted to years on Saturn
 
-	Scenario: Earth Year to Uran
+	Scenario: Earth Year to Wenus
 		Given there is a staroscPlanetKlasa
 		Then seconds from 1 year on earth are converted to years on Uran
